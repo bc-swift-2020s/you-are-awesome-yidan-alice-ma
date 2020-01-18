@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        messageLabel.text = ""
     }
 
     @IBAction func messageButtonPressed(_ sender: UIButton) {
