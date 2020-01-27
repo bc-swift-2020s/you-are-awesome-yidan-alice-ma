@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         messageNumber = newMessageNumber
         messageLabel.text = messages[messageNumber]
         
-        
+        //comment
         
         var newImageNumber: Int
         repeat {
